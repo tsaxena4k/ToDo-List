@@ -9,10 +9,14 @@ function App() {
     setInputList(event.target.value);
   };
   const listItems=()=>{
+    if(inputList==""){
+      alert("Add an item first");
+    }else{
     nextItem((oldItems)=>{
       return [...oldItems,inputList];
     });
     setInputList("");
+    }
   }
   const deleteItem=(id)=>{
     console.log("deleted");
