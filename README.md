@@ -1,5 +1,5 @@
 Want to have a Look !
-Static pages Deployed on Github pages :
+Static pages Deployed on Github pages : tsaxena4k.github.io/todo-list/
 React Application deployed on Netlify : https://hardcore-johnson-116b0f.netlify.app/
 
 
