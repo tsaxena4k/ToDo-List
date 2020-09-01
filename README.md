@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/tsaxena4k/ToDo-List?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/tsaxena4k/ToDo-List?style=for-the-badge) ![GitHub commit merge status](https://img.shields.io/github/commit-status/tsaxena4k/ToDo-List/master/11f416a150864926097c08a0da990704665453fe?style=for-the-badge)
 
 
 
