@@ -9,7 +9,7 @@ function App() {
     setInputList(event.target.value);
   };
   const listItems=()=>{
-    if(inputList==""){
+    if(inputList===""){
       alert("Add an item first");
     }else{
     nextItem((oldItems)=>{
