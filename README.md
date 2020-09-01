@@ -1,3 +1,9 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/tsaxena4k/ToDo-List?style=for-the-badge)
+
+
+
+
+
 Want to have a Look !
 
 Static pages Deployed on Github pages : https://tsaxena4k.github.io/todo-list/
