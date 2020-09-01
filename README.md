@@ -1,3 +1,11 @@
+Want to have a Look !
+Static pages Deployed on Github pages :
+React Application deployed on Netlify : https://hardcore-johnson-116b0f.netlify.app/
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
