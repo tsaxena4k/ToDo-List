@@ -4,11 +4,11 @@
 
 
 
-Want to have a Look .
+### Want to have a Look .
 
-Static pages Deployed on Github pages : https://tsaxena4k.github.io/ToDo-List/
+Static pages Deployed on `Github pages` : https://tsaxena4k.github.io/ToDo-List/
 
-React Application deployed on Netlify : https://tsaxena4k-todo-list.netlify.app/
+React Application deployed on `Netlify` : https://tsaxena4k-todo-list.netlify.app/
 
 
 
